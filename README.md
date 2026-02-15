@@ -73,4 +73,4 @@ PG-13 movies and TV-MA shows have the highest popularity, balancing wide reach w
 ## Screenshot
 
 ## Netflix Dashboard Preview:
-(https://github.com/jagruthi315/Netflix-data-analysis-dashboard/blob/main/Netflix%20dashboard.PNG)
+[dashboard preview](https://github.com/jagruthi315/Netflix-data-analysis-dashboard/blob/main/Netflix%20dashboard.PNG)
