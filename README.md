@@ -1,20 +1,20 @@
-#NETFLIX DASHBOARD ANALYSIS REPORT
-##Objective
+# NETFLIX DASHBOARD ANALYSIS REPORT
+## Objective
 
 The objective of this report is to understand how audience engagement with movies and TV shows has evolved from 1958 to 2022. The analysis studies changes in viewing preferences, content characteristics, and audience behavior over time, and identifies key trends that explain the growth of the entertainment industry as well as factors that may be limiting its further expansion.
 
-##Tech Stack
+## Tech Stack
 
-•###Power BI (Data visualization & dashboard creation)
-•###Power Query (Data cleaning and transformation)
-•###Kaggle (Dataset source)
-•###File formats: .pbit for development and .png for dashboard previews
+•Power BI (Data visualization & dashboard creation)
+•Power Query (Data cleaning and transformation)
+•Kaggle (Dataset source)
+•File formats: .pbit for development and .png for dashboard previews
 
-##Dataset Description
+## Dataset Description
 
 The analysis uses a Netflix dataset sourced from Kaggle. The dataset includes information related to movies and TV shows available on Netflix across multiple years.
 
-##Key columns used in this analysis:
+## Key columns used in this analysis:
 • Title
 • Type (Movie / TV Show)
 • Runtime / Duration
@@ -26,30 +26,30 @@ The analysis uses a Netflix dataset sourced from Kaggle. The dataset includes in
 • Overall Popularity
 •The dataset spans content released between 1958 and 2022.
 
-##Methodology
-###Data Collection
+## Methodology
+### Data Collection
 
 The dataset was collected from Kaggle and imported into Power BI for further analysis.
 
-###Data Understanding
+### Data Understanding
 
 The initial step involved understanding the structure of the dataset and identifying key questions to be answered, such as audience engagement trends, content popularity, and changes in runtime over time.
 
-###Data Cleaning
+### Data Cleaning
 
 • Removed columns that were not relevant to the analysis
 • Handled missing and null values
 • Removed empty or invalid records to ensure data consistency
 
-###Feature Engineering
+### Feature Engineering
 
 Additional calculated measures and transformations were created to support better visualization and analysis, such as average metrics, counts, and aggregated popularity values.
 
-###Data Visualization
+### Data Visualization
 
 The cleaned and transformed data was visualized using various charts in Power BI, selected based on the type of insight required (trend, comparison, distribution, or relationship).
 
-###Dashboard Overview
+### Dashboard Overview
 
 The dashboard presents a consolidated view of Netflix content trends and audience behavior. It includes:
 
@@ -58,7 +58,7 @@ The dashboard presents a consolidated view of Netflix content trends and audienc
 • Bar charts showing overall popularity by title and by age certification
 • Supporting visuals to analyze IMDb scores and voting behavior
 
-##Key Insights
+## Key Insights
 
 Inception is the highest-rated movie and Breaking Bad is the highest-rated TV show over the last 50 years.
 
@@ -70,7 +70,7 @@ Average runtime has increased over time, especially for TV shows, showing that a
 
 PG-13 movies and TV-MA shows have the highest popularity, balancing wide reach with narrative depth.
 
-##Screenshot
+## Screenshot
 
-##Netflix Dashboard Preview:
+## Netflix Dashboard Preview:
 (https://github.com/jagruthi315/Netflix-data-analysis-dashboard/blob/main/Netflix%20dashboard.PNG)
